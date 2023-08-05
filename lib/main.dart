@@ -86,7 +86,7 @@ class BaseContainer extends StatelessWidget {
       child: const Align(
           alignment: Alignment.center,
           child: Text(
-            "HEHEHEH",
+            "I'm Stacked Container Design",
             style: TextStyle(
                 color: Color(0xff3f3f3f),
                 fontWeight: FontWeight.bold,
